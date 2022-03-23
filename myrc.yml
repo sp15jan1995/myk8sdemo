@@ -10,7 +10,7 @@ spec:
    template:
      metadata:
        labels:
-          app: mynginx-rc
+          app: mynginx
           
      spec:
         containers:
